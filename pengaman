@@ -131,7 +131,7 @@ function auto_safeconvert() {<br />
         }<br />
         if (a_to_vh == false) {<br />
             var encryptedUrl = Base64.encode(a_to_vi);<br />
-            a_to_ve[i].href = "http://www.tipskehamilan.site/p/blog-page.html?url=" + encryptedUrl;<br />
+            a_to_ve[i].href = "https://www.tipskehamilan.site/p/blog-page.html?url=" + encryptedUrl;<br />
             a_to_ve[i].rel = "nofollow";<br />
             a_to_vb++;<br />
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";<br />
